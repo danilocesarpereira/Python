@@ -25,8 +25,10 @@
 
 [Site IFTM](www.iftm.edu.br)
 
-Teste de emoji :rofl: Disponível no site: [Emoji](github.com/ikatyang/emoji-cheat-sheet)
+Teste de emoji :rofl: Disponível no site: [Emoji](https://github.com/ikatyang/emoji-cheat-sheet)
 
+
+> Teste de reply
 
 Num | Nome | Nota
 --- | --- | ---
